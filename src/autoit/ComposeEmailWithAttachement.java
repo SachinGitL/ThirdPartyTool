@@ -24,6 +24,8 @@ public class ComposeEmailWithAttachement {
 		System.setProperty(Chrome_key,Chrome_value);
 		driver = new ChromeDriver();
 		
+		// this a login to gmail
+		
 		driver.get("https://www.gmail.com");
 		wait = new WebDriverWait(driver, 10);
 		driver.manage().window().maximize();
