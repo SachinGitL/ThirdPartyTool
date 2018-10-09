@@ -3,7 +3,8 @@
 <suite name="Suite">
  <test name="Test">
   <classes>
-  <class name="autoit.LoggingDemo">
+  <class name="autoit.LoginToFaceBook"></class>
+  <class name="autoit.ComposeEmailWithAttachement">
   </class>
   </classes>
   </test> <!-- Test -->
